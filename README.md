@@ -1,2 +1,3 @@
-# chrome-extension-hello-world
+HELLO WORLD EXTENSION
+--------------------------------------------------
 The extension that prints a simple Hello World and Hello $name.
